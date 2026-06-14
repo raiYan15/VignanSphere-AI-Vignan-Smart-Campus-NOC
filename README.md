@@ -9,6 +9,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-Ideathon-red)
 ![AI](https://img.shields.io/badge/AI-Powered-purple)
 ![Digital Twin](https://img.shields.io/badge/Digital%20Twin-Enabled-cyan)
+![Database](https://img.shields.io/badge/Database-MongoDB-green)
 
 ---
 
@@ -217,7 +218,7 @@ flowchart TB
 
 ### Data Layer
 
-- MongoDB (current integration)
+- MongoDB Atlas (current integration)
 - PostgreSQL / Redis (planned roadmap support)
 
 ### AI Layer
